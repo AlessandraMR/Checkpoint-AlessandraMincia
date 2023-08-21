@@ -1,0 +1,23 @@
+COMMIT 01
+$ git init
+$ git remote add origin https://github.com/mysticBel/Checkout-1-Maribel.git
+$ git add .
+$ git commit -m "commit 01 de AlessandraMincia"
+$ git push -u origin main
+
+COMMIT 02
+$ git checkout -b feature
+$ git add .
+$ git commit -m "commit 02 de AlessandraMincia"
+$ git push origin feature
+
+COMMIT 03
+$ git checkout main
+$ git add .
+$ git commit -m "commit 03 de AlessandraMincia"
+$ git push
+
+COMMIT 04
+$ git add .
+$ git commit -m "commit 04 de AlessandraMincia"
+$ git push
