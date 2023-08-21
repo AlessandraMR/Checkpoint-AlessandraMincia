@@ -1,0 +1,3 @@
+- Teclado
+- Mouse
+- Cámara web

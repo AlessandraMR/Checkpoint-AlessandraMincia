@@ -1,0 +1,3 @@
+- Sistema Operativo
+- Editor de texto
+- IDE
